@@ -140,6 +140,8 @@ int main()
 
 
 ## OUTPUT:
+<img width="491" height="78" alt="image" src="https://github.com/user-attachments/assets/9adc9276-600a-4b95-9f61-da744c66584f" />
+
 https://youtu.be/L7hSX1DUN-A?si=EJaK2qYycOB0Ew6r
 
 ## RESULT:
